@@ -1,4 +1,3 @@
-import os
 import allure
 from selene import be, have, by
 
